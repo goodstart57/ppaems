@@ -89,6 +89,12 @@
 
 ---
 
+### 페르소나
+
+![persona](./img/week1-persona.jpg)
+
+---
+
 ## 문제 정의
 
 ### 정의
@@ -131,6 +137,23 @@
 
 ---
 
+### 브레인 라이팅, SCAMPER
+
+![브레인 라이팅, SCAMPER](./img/week1-selectidea.jpg)
+
+---
+
+### 아이디어 선정
+
+![아이디어 선정](./img/week1-idea.jpg)
+
+---
+
+### 아이디어 보드
+
+![아이디어 보드](./img/week1-ideaboard.jpg)
+
+---
 ## 시제품 제작
 
 ### 정의
